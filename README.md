@@ -20,4 +20,12 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Leks08/leetcode-solutions/tree/master/0058-length-of-last-word) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Leks08/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Leks08/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
