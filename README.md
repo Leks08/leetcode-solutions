@@ -23,6 +23,7 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Leks08/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0206-reverse-linked-list](https://github.com/Leks08/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -38,4 +39,8 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Leks08/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Leks08/leetcode-solutions/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Leks08/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
