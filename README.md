@@ -32,8 +32,10 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Leks08/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0704-binary-search](https://github.com/Leks08/leetcode-solutions/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Leks08/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0704-binary-search](https://github.com/Leks08/leetcode-solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
