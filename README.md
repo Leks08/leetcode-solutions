@@ -33,6 +33,7 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Leks08/leetcode-solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Leks08/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Leks08/leetcode-solutions/tree/master/0704-binary-search) |
 ## Binary Search
@@ -44,4 +45,8 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Leks08/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Leks08/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
