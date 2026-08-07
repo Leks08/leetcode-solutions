@@ -19,6 +19,7 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Leks08/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Leks08/leetcode-solutions/tree/master/0058-length-of-last-word) |
 ## Linked List
 |  |
@@ -49,4 +50,12 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Leks08/leetcode-solutions/tree/master/0001-two-sum) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Leks08/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Leks08/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
