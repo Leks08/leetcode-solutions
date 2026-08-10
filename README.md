@@ -21,6 +21,7 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 | ------- |
 | [0020-valid-parentheses](https://github.com/Leks08/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Leks08/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Leks08/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Linked List
 |  |
 | ------- |
@@ -37,6 +38,7 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 | [0001-two-sum](https://github.com/Leks08/leetcode-solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Leks08/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/Leks08/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Leks08/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0704-binary-search](https://github.com/Leks08/leetcode-solutions/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -52,6 +54,7 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Leks08/leetcode-solutions/tree/master/0001-two-sum) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Leks08/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Stack
 |  |
 | ------- |
