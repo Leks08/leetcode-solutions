@@ -37,6 +37,7 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 | ------- |
 | [0001-two-sum](https://github.com/Leks08/leetcode-solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Leks08/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Leks08/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0283-move-zeroes](https://github.com/Leks08/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Leks08/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0704-binary-search](https://github.com/Leks08/leetcode-solutions/tree/master/0704-binary-search) |
@@ -44,6 +45,7 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Leks08/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Leks08/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/Leks08/leetcode-solutions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
