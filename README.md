@@ -41,6 +41,7 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Leks08/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Leks08/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Leks08/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Leks08/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Leks08/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0704-binary-search](https://github.com/Leks08/leetcode-solutions/tree/master/0704-binary-search) |
 ## Binary Search
@@ -59,6 +60,7 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Leks08/leetcode-solutions/tree/master/0001-two-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Leks08/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Leks08/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Stack
 |  |
