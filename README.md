@@ -42,6 +42,7 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Leks08/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Leks08/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Leks08/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Leks08/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Leks08/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Leks08/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Leks08/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -62,6 +63,7 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Leks08/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0189-rotate-array](https://github.com/Leks08/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Leks08/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -81,4 +83,8 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Leks08/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Leks08/leetcode-solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
