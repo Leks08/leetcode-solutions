@@ -22,6 +22,7 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 | [0020-valid-parentheses](https://github.com/Leks08/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Leks08/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Leks08/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1021-remove-outermost-parentheses](https://github.com/Leks08/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -75,10 +76,12 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Leks08/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Leks08/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Leks08/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Leks08/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
