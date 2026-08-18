@@ -22,6 +22,7 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 | [0020-valid-parentheses](https://github.com/Leks08/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Leks08/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Leks08/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0796-rotate-string](https://github.com/Leks08/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Leks08/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Leks08/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
@@ -96,4 +97,8 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Leks08/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Leks08/leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
