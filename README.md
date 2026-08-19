@@ -21,6 +21,7 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 | ------- |
 | [0020-valid-parentheses](https://github.com/Leks08/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Leks08/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0451-sort-characters-by-frequency](https://github.com/Leks08/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Leks08/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0796-rotate-string](https://github.com/Leks08/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Leks08/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -73,6 +74,7 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 | ------- |
 | [0001-two-sum](https://github.com/Leks08/leetcode-solutions/tree/master/0001-two-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Leks08/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Leks08/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Leks08/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Stack
 |  |
@@ -101,4 +103,20 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Leks08/leetcode-solutions/tree/master/0796-rotate-string) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Leks08/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Leks08/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Leks08/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Leks08/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
