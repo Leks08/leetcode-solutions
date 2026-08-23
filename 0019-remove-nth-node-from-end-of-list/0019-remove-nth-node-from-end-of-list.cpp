@@ -27,7 +27,9 @@ public:
         for(int i=0;i<count-n-1;i++){
             prev=prev->next;
         }
+        temp = prev->next;
         prev->next=prev->next->next;
+        delete temp;
         return head;
     }
 };
