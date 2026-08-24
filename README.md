@@ -110,6 +110,7 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Leks08/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Leks08/leetcode-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Leks08/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Leks08/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
