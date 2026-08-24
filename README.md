@@ -45,6 +45,7 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 | [0050-powx-n](https://github.com/Leks08/leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Leks08/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Leks08/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Leks08/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -107,12 +108,14 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Leks08/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Leks08/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Leks08/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Leks08/leetcode-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Leks08/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Leks08/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Leks08/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -138,4 +141,8 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Leks08/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Leks08/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
