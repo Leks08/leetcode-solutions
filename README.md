@@ -113,6 +113,7 @@ I am solving Data Structures and Algorithms problems on LeetCode to improve my c
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Leks08/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Leks08/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Leks08/leetcode-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Leks08/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Leks08/leetcode-solutions/tree/master/0509-fibonacci-number) |
